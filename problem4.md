@@ -1,6 +1,7 @@
 # Problem 4. Calculations
 
-**_Note: This problem has multiple stages, each of which awards some partial credit._**
+**_Note: This problem has multiple stages, each of which awards some partial credit. You can (and probably should) submit again after
+completing each part of the problem._**
 
 You've finally made it to the final door! Through the small window slit, you can
 see the treasure in front of you -- you just have to get in. The door has a interesting
@@ -34,7 +35,7 @@ to implement a calculator to solve it for you, step by step.
 
 _Note: The inputs will only contain positive integers, but the answer may be negative._
 
-### Step 1. Addition (20%)
+### Step 1. Addition (20% of points)
 To start off, implement your calculator for expressions with just numbers and addition.
 
 ##### Sample Input
