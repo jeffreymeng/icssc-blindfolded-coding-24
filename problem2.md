@@ -35,8 +35,6 @@ Return an integer representing the number of times the second-longest contiguous
 repeated (see sample input/output below). If there is a tie for first-longest, then the second-longest is also the 
 same as the first-longest (see sample input/output 2 below).
 
-[Check out the template: problem2.py]
-
 **Sample input:**
 ```
 second_longest_contiguous("abbbcccccc")
